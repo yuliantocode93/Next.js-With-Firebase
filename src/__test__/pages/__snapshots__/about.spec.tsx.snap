@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`About Page should render the About Page 1`] = `
+<DocumentFragment>
+  <div>
+    <h1
+      id="title"
+    >
+      About Page
+    </h1>
+  </div>
+</DocumentFragment>
+`;
